@@ -1,0 +1,14 @@
+/home/pc-weslley-2223203032/MeuApp/bin/Debug/net8.0/MeuApp
+/home/pc-weslley-2223203032/MeuApp/bin/Debug/net8.0/MeuApp.deps.json
+/home/pc-weslley-2223203032/MeuApp/bin/Debug/net8.0/MeuApp.runtimeconfig.json
+/home/pc-weslley-2223203032/MeuApp/bin/Debug/net8.0/MeuApp.dll
+/home/pc-weslley-2223203032/MeuApp/bin/Debug/net8.0/MeuApp.pdb
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfoInputs.cache
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/MeuApp.AssemblyInfo.cs
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/MeuApp.csproj.CoreCompileInputs.cache
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/MeuApp.dll
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/refint/MeuApp.dll
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/MeuApp.pdb
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/MeuApp.genruntimeconfig.cache
+/home/pc-weslley-2223203032/MeuApp/obj/Debug/net8.0/ref/MeuApp.dll
